@@ -344,7 +344,7 @@ a:active {
 @media screen and (min-width: 1268px) {
 	.body-background {
 		height: 100vh;
-		background-image: url("/assets/img/background.png");
+		background-image: url("../assets/img/background.png");
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;

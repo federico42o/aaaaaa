@@ -130,7 +130,7 @@ body {
 
 .card-img {
 	margin-right: 2%;
-	background-image: url("./assets/img/example-photo.png");
+	background-image: url("../assets/img/example-photo.png");
 	background-size: cover;
 	display: flex;
 	width: 350px;
@@ -211,7 +211,7 @@ a:active {
 @media screen and (min-width: 1268px) {
 	.body-background {
 		height: 100vh;
-		background-image: url("./assets/img/background.png");
+		background-image: url("../assets/img/background.png");
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;
